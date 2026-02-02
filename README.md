@@ -69,14 +69,17 @@ A procurement automation tool built for the University of Zambia to streamline s
 
 ## GitHub STATS
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mwansaGP&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwansaGP&theme=tokyonight" />
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwansaGP&layout=compact&theme=tokyonight" />
-</p>
+</div>
+
 
 ---
 
